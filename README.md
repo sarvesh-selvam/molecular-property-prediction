@@ -1,1 +1,1 @@
-# molecular-property-prediction
+# Molecular Solubility Prediction
